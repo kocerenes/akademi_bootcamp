@@ -14,7 +14,7 @@ Grup 68
 
 ## Ürün İsmi
 
---Movie App--
+--Etüt Programı--
 
 ## Ürün Açıklaması
 
@@ -29,11 +29,9 @@ Grup 68
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Tekstilde çalışan etüt tutan kişiler
+- Tekstil sahipleri
+- Üretim sektöründeki beyaz yaka çalışanlar
 
 ## Product Backlog URL
 
