@@ -69,7 +69,30 @@ Alınan kararlar: Ana sayfanın oluşturulması süreci hızlandırılmalı gere
 ---
 
 # Sprint 2
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. 
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantıları her gün yapılamamıştır. Yapıldığı zamanlarda Whatsapp üzerinden grup sesli sohbeti ile yapılmıştır.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://raw.githubusercontent.com/kocerenes/akademi_bootcamp/main/Sprint1Doc/backlog_1.jpeg) 
+
+
+- **Ürün Durumu**: Uygulama tasarımı oluşturuldu. Giriş sayfası kodlanma aşamasında.
+
+- **Sprint Review**: 
+Alınan kararlar: Arka taraf kodlaması yapılmalı. Ürünü yetiştirebilmek adına planlanan bazı özelliklerden feragat edilmeli. 
+
+- **Sprint Retrospective:**
+  - Ekip içi iletişim arttırılmalı. 
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
 
 ---
 
