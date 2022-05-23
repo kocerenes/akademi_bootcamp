@@ -82,7 +82,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantıları her gün yapılamamıştır. Yapıldığı zamanlarda Whatsapp üzerinden grup sesli sohbeti ile yapılmıştır.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/kocerenes/akademi_bootcamp/main/Sprint1Doc/backlog_1.jpeg) 
+![Backlog 1](https://raw.githubusercontent.com/kocerenes/akademi_bootcamp/main/Sprint2Doc/sprint2.jpeg) 
 
 
 - **Ürün Durumu**: Uygulama tasarımı oluşturuldu. Giriş sayfası kodlanma aşamasında.
