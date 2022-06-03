@@ -6,7 +6,7 @@ class CalculatePage extends StatefulWidget {
   @override
   _CalculatePageState createState() => _CalculatePageState();
 }
-
+//deneme
 class _CalculatePageState extends State<CalculatePage> {
   @override
   Widget build(BuildContext context) {
