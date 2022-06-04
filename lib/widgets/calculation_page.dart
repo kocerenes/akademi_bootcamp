@@ -18,10 +18,12 @@ class _CalculatePageState extends State<CalculatePage> {
         ),
       ),
       body: Column(
+
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           Row(
             children: [
+
               Expanded(
                 flex: 2,
                 child: Container(
@@ -36,6 +38,8 @@ class _CalculatePageState extends State<CalculatePage> {
             child: Container(
               child: Text("liste buraya gelecek"),
               color: Colors.blue,
+
+
             ),
           ),
         ],
@@ -53,6 +57,7 @@ Widget _buildForm() {
           padding: EdgeInsets.symmetric(horizontal: 8,vertical: 8),
           child: _buildTextFormField("işlem adı"),
         ),
+
         Padding(
           padding: EdgeInsets.symmetric(horizontal: 8,vertical: 8),
           child: _buildTextFormField("operator tempo oranı"),
@@ -78,6 +83,8 @@ Widget _buildForm() {
               icon: Icon(Icons.arrow_forward_ios_sharp),
               color: Colors.amber,
               iconSize: 30,
+
+
             ),
           ],
         )
