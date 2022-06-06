@@ -113,6 +113,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/kocerenes/akademi_bootcamp/main/sprint3_doc/sprint3.jpeg) 
 
+- **Ürün Durumu**: Ekran görüntüleri:
+
+  ![Screenshot 1](https://raw.githubusercontent.com/kocerenes/akademi_bootcamp/main/sprint3_doc/gorsel1.jpeg)
+  ![Screenshot 2](https://raw.githubusercontent.com/kocerenes/akademi_bootcamp/main/sprint3_doc/gorsel2.jpeg)
 
 - **Ürün Durumu**: Giriş sayfası kodlandı. Etüt değerlerini yazıp listeleme sayfası oluşturuldu.
 
