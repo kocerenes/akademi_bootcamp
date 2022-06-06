@@ -1,5 +1,6 @@
 import 'package:etut_porgrami/helper/all_etut.dart';
 import 'package:etut_porgrami/model/etut.dart';
+import 'package:etut_porgrami/widgets/etut_list.dart';
 import 'package:flutter/material.dart';
 
 class CalculatePage extends StatefulWidget {
@@ -42,7 +43,7 @@ class _CalculatePageState extends State<CalculatePage> {
           ),
           Expanded(
             flex: 1,
-            child: Text("sabit"),
+            child: EtutList(),
           ),
         ],
       ),
