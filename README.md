@@ -94,6 +94,8 @@ Alınan kararlar: Arka taraf kodlaması yapılmalı. Ürünü yetiştirebilmek a
   - Ekip içi iletişim arttırılmalı. 
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
 
+---
+
 # Sprint 3
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. 
@@ -109,7 +111,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantıları her gün yapılamamıştır. Yapıldığı zamanlarda Google Meet üzerinden ekran paylaşımları yapılarak yapılmıştır.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/kocerenes/akademi_bootcamp/main/Sprint2Doc/sprint2.jpeg) 
+![Backlog 1](https://raw.githubusercontent.com/kocerenes/akademi_bootcamp/main/sprint3_doc/sprint3.jpeg) 
 
 
 - **Ürün Durumu**: Giriş sayfası kodlandı. Etüt değerlerini yazıp listeleme sayfası oluşturuldu.
